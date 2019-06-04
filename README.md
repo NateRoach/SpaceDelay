@@ -20,7 +20,12 @@ the "Wet/Dry Mix" rotary knob affects how loud the delays come through.
 
 
 
-
+## Installation instructions:
+1. Download the SpaceDelay folder.
+2. Run the .jucer file.
+3. Execute the Xcodde file.
+4. Rescan for audio units and VST's in your DAW.
+5. Have fun and enjoy.
 
 
 
